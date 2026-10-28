@@ -1,0 +1,14 @@
+{
+  "name": "Mr&Mrs",
+  "short_name": "Mr&Mrs",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#02060e",
+  "theme_color": "#0356c5",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}

@@ -1,0 +1,14 @@
+Mr&Mrs online zetten (gratis, ±5 minuten)
+
+1. Pak deze zip uit. Je krijgt een map "online" met index.html, manifest en icoontjes.
+2. Ga naar https://app.netlify.com/drop en maak een gratis account (of log in).
+3. Sleep de map "online" in het vak. Na een paar seconden krijg je een link, bv. https://mrmrs-thuis.netlify.app
+4. Optioneel: Site settings > Change site name > kies een makkelijke naam.
+
+Op gsm en tablet installeren
+- iPhone/iPad: open de link in Safari > Deel > Zet op beginscherm
+- Android: open de link in Chrome > ⋮ > App installeren / Toevoegen aan startscherm
+
+Nieuwe versie? Sleep de nieuwe map opnieuw in Netlify (Deploys > sleepvak). De link blijft dezelfde.
+
+Let op: elk toestel bewaart nog zijn eigen gegevens. Samen delen tussen gsm's vraagt een online database (volgende stap).
